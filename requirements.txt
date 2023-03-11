@@ -7,4 +7,5 @@ nbformat
 scikit-learn
 xgboost
 catboost
+logger
 #-e .
