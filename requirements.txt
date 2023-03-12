@@ -8,4 +8,5 @@ scikit-learn
 xgboost
 catboost
 logger
+dill
 #-e .
